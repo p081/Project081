@@ -5,8 +5,11 @@ Running Mac OS X 10.4 Tiger on Early 2008 [Penryn] Macs
 
 ### Quick Links
 Documentation: Will be released with Beta 2
+
 Written Guide: Will be released with Beta 2
+
 Compatibility List: Will be released with Beta 2. (For now visit the website or see below)
+
 Download: https://p081.github.io
 
 Project 081 is a simple to use unofficial Mac OS X modification by speedie which can install Tiger on some specific models. (see support below)
