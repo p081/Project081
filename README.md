@@ -17,18 +17,16 @@ It is a continuation of the older and flawed The81Project which too allowed you 
 No features were dropped. Only use The81Project if Project 081 doesn't work (since it's a beta currently)
 It offers
 
-    Close to vanilla experience without days of tinkering (I did that work for you)
-    Many different patched drivers to get more things functional
-    Next to perfect compatibility
-    No bootloader needed before and after installation (Goodbye Clover)
-    One disk image, works on both supported and unsupported Macs (doesn't install unnecessary patches)
-    Package included which automatically installs necessary patches.
+    * Close to vanilla experience without days of tinkering
+    * Many different patched drivers to get more things functional
+    * Next to perfect compatibility
+    * No bootloader needed before and after installation
+    * One disk image, works on both supported and unsupported Macs (doesn't install unnecessary patches)
+    * Package included which automatically installs necessary patches.
 
 ## Compatibility
 
-On any version of Mac OS X, installed or recovery, open the terminal and run
-
-sysctl hw.model
+On any version of Mac OS X, installed or recovery, open the terminal and run sysctl hw.model
 
 It should report back one of the following:
 
@@ -73,7 +71,8 @@ Contact me on Discord (speedie#8260) or on Twitter (@spdgmr)
 
 For most people, this would work instantly, but maybe with some issues if you have one of the models listed above.
 
-If you have an iMac8,1 or MacBookPro4,1 and you aren't getting any sound, please contact me.
+If you have an iMac8,1 or MacBookPro4,1 and you aren't getting any sound, you may have picked the wrong image.
+Those machines need a special image so download the BLUE one. If it still doesn't work, contact me.
 
 If you can't boot with a MacPro3,1, do note that a lot of GPUs aren't compatible. For the best results, use official original GPUs.
 Known supported GPUs: Radeon HD 2600XT
