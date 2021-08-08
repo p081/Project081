@@ -79,7 +79,9 @@ Known supported GPUs: Radeon HD 2600XT
 
 ## Download
 
-Visit https://p081.github.io for the most up to date download.
+Latest version is of course the latest GitHub release in this repository.
+You can download it by visiting https://github.com/p081/Project081/releases/latest
+Otherwise visit https://p081.github.io for the most up to date download and where most people download.
 
 ## Credit
 
