@@ -1,5 +1,5 @@
 # Project 081
-<img width="512" alt="Project081" src="https://user-images.githubusercontent.com/71722170/124338538-d20d2e80-dba8-11eb-813a-846e37cfd656.png">
+<img width="256" alt="Project081" src="https://user-images.githubusercontent.com/71722170/124338538-d20d2e80-dba8-11eb-813a-846e37cfd656.png">
 
 Running Mac OS X 10.4 Tiger on Early 2008 [Penryn] Macs
 
